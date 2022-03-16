@@ -1,0 +1,5 @@
+WARNING: [XSIM 43-3479] Unable to increase the current process stack size.
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/everglow/work/inflearn/Matbi_VerilogHDL_Season1/chapter_14/power_of_8.v" into library work
+INFO: [VRFC 10-311] analyzing module power_of_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/everglow/work/inflearn/Matbi_VerilogHDL_Season1/chapter_14/tb_power_of_8.v" into library work
+INFO: [VRFC 10-311] analyzing module tb_power_of_8

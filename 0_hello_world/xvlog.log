@@ -1,0 +1,3 @@
+WARNING: [XSIM 43-3479] Unable to increase the current process stack size.
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/everglow/work/inflearn/Matbi_VerilogHDL_Season1/0_hello_world/hello_world.v" into library work
+INFO: [VRFC 10-311] analyzing module hello_world

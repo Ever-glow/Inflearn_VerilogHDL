@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# xsim v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue Jan  4 00:20:49 2022
+# Process ID: 7920
+# Current directory: /home/everglow/work/inflearn/Matbi_VerilogHDL_Season1/0_hello_world
+# Command line: xsim -mode tcl -source {xsim.dir/hello_world/xsim_script.tcl}
+# Log file: /home/everglow/work/inflearn/Matbi_VerilogHDL_Season1/0_hello_world/xsim.log
+# Journal file: /home/everglow/work/inflearn/Matbi_VerilogHDL_Season1/0_hello_world/xsim.jou
+# Running On: DESKTOP-ALATNOF, OS: Linux, CPU Frequency: 3400.000 MHz, CPU Physical cores: 1, Host memory: 17106 MB
+#-----------------------------------------------------------
+source xsim.dir/hello_world/xsim_script.tcl
+run -all
